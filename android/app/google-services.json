@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461446568670",
+    "project_id": "tinamartevent",
+    "storage_bucket": "tinamartevent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461446568670:android:43a7f9beac2b0e4ce2404f",
+        "android_client_info": {
+          "package_name": "com.example.tinamartevent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAF09z_3JfxTdklDpcYvhXxoSlYGFQHmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
